@@ -1,0 +1,7 @@
+.container__list, .container__create  {
+    padding-top: 7%;
+}
+
+.container__list > h2 , .container__create > h2{
+   text-align: center;
+}
